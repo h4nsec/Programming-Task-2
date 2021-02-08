@@ -1,4 +1,4 @@
-# Programming Task 1
+# Programming Task 2
 # Author: Stuart Hanson
 # Date: 17/01/2021
 # Contact: stuart_hanson@outlook.com
